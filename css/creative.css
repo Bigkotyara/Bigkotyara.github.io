@@ -18,6 +18,7 @@ hr.light {
   border-color: #fff;
 }
 
+a {
   color: #FE6663;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
